@@ -23,6 +23,7 @@ velocidadeMissil = 5
 fonte = pygame.font.SysFont("comicsans", 18)
 pontos = 0
 pygame.mixer.music.play(-1)
+print("se fode")
 
 while True:
     eventos = pygame.event.get()
